@@ -86,16 +86,11 @@ Here are some ideas to get you started:
 
 ### 📌 Pinned Projects
 
-🔗 View more in my [Open Source Portfolio](https://github.com/yemiwebby/yemiwebby/blob/main/open-source.md)
-
-[![](https://img.shields.io/badge/-CODE%20Review%20Agent-blue)](https://github.com/yemiwebby/code-review-agent)  
-Automated PR reviews using Go, CircleCI & OpenAI
-
-[![](https://img.shields.io/badge/-Smart%20Expense%20Engine-green)](https://github.com/yourusername/smart-expense-engine)  
-Mimics memory management to auto-classify personal or business expenses
-
-[![](https://img.shields.io/badge/-Microservices%20in%20Go-orange)](https://github.com/yourusername/go-microservices)  
-User Auth & Notification service with Go concurrency and REST APIs
+| Project                                                                                                                | Description                                                             |
+| ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [![](https://img.shields.io/badge/-CODE%20Review%20Agent-blue)](https://github.com/yemiwebby/code-review-agent)        | Automated PR reviews using Go, CircleCI & OpenAI                        |
+| [![](https://img.shields.io/badge/-Smart%20Expense%20Engine-green)](https://github.com/yemiwebby/smart-expense-engine) | Mimics memory management to auto-classify personal or business expenses |
+| [![](https://img.shields.io/badge/-Microservices%20in%20Go-orange)](https://github.com/yemiwebby/go-microservices)     | User Auth & Notification service with Go concurrency and REST APIs      |
 
 ---
 
