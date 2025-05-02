@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/yemiwebby/yemiwebby/blob/main/github-banner-2.png" alt="GitHub Banner" width="100%" />
+  <img src="https://github.com/yemiwebby/yemiwebby/blob/main/github-banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
 <p align="center">
