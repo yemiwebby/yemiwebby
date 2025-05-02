@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/yemiwebby/yemiwebby/blob/main/github-banner.png" alt="GitHub Banner" width="100%" />
+  <img src="https://github.com/yemiwebby/yemiwebby/blob/main/github-banner-2.png" alt="GitHub Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -54,11 +54,15 @@ Here are some ideas to get you started:
 
 ### 📚 Technical Writing
 
-- 📝 Contributor at [CircleCI Blog](https://circleci.com/blog/)
+#### ✨ CircleCI Blog
+
+- 📝 [Read my posts](https://circleci.com/blog/)
 - ✍🏾 Topics: Go, CI/CD, Serverless, AI/DevOps automation
 - 🎯 Goal: Help devs ship faster and build resilient systems
 
-- 📝 Contributor at [Twilio Blog](https://www.twilio.com/en-us/blog/authors/author.oolususi)
+#### 💬 Twilio Blog
+
+- 📝 [Read my posts](https://www.twilio.com/en-us/blog/authors/author.oolususi)
 - ✍🏾 Topics: Go, Real-Time Messaging, Conversations API, Communication Workflows
 - 🎯 Goal: Empower developers to build scalable support systems and connected experiences
 
