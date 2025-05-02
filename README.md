@@ -86,6 +86,8 @@ Here are some ideas to get you started:
 
 ### 📌 Pinned Projects
 
+🔗 View more in my [Open Source Portfolio](https://github.com/yemiwebby/yemiwebby/blob/main/open-source.md)
+
 [![](https://img.shields.io/badge/-CODE%20Review%20Agent-blue)](https://github.com/yemiwebby/code-review-agent)  
 Automated PR reviews using Go, CircleCI & OpenAI
 
