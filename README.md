@@ -13,21 +13,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently building: **AI PR Review Agent**, **Smart Expense Allocation Engine**
-- 💡 I'm exploring: **Golang Concurrency**, **Kafka**, **Cassandra**, **Azure**
-- ✍🏾 Writing:
-  - [CircleCI Tutorials](https://circleci.com/blog/author/olususi-oluyemi/)
-  - [Twilio Tutorials](https://www.twilio.com/en-us/blog/authors/author.oolususi)
-- 💬 Ask me about **Go, APIs, Microservices, DevOps, Cloud, Kubernetes**
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yemiwebby) | [Twitter / X](https://x.com/yemiwebby)
+<p align="center">
+  <img src="https://github.com/yemiwebby/yemiwebby/blob/main/github-banner.png" alt="GitHub Banner" width="100%" />
+</p>
 
-<h2 align="center">👋 Hi, I'm Oluyemi — Software Engineer | Golang, Cloud & DevOps Enthusiast</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-1.20.5-blue" alt="Go Version" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-blue" alt="Azure" />
+  <img src="https://img.shields.io/badge/CircleCI-DevOps-blue" alt="CircleCI" />
+  <img src="https://img.shields.io/badge/Twilio-API-orange" alt="Twilio" />
+  <img src="https://img.shields.io/badge/DevOps-Engineer-blue" alt="DevOps Engineer" />
+  <img src="https://img.shields.io/badge/FinTech-Engineer-blue" alt="FinTech Engineer" />
+</p>
+
+  <h2 align="center">👋 Hi, I'm Oluyemi — Software Engineer | Golang, Cloud & DevOps Enthusiast</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/yemiwebby">LinkedIn</a> •
   <a href="https://x.com/yemiwebby">Twitter / X </a> •
   <a href="https://circleci.com/blog/author/olususi-oluyemi">CircleCI Blog</a>
 </p>
+
+- 🔭 I’m currently building: **AI PR Review Agent**, **Smart Expense Allocation Engine**
+- 💡 I'm exploring: **Golang Concurrency**, **Kafka**, **Cassandra**, **Azure**
+- ✍🏾 Writing: [CircleCI Tutorials](https://circleci.com/blog/author/olususi-oluyemi/), [Twilio Tutorials](https://www.twilio.com/en-us/blog/authors/author.oolususi)
+- 💬 Ask me about **Go, APIs, Microservices, DevOps, Cloud, Kubernetes**
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yemiwebby) | [Twitter / X](https://x.com/yemiwebby)
+- 😄 Pronouns: He/Him
 
 ---
 
@@ -45,6 +57,10 @@ Here are some ideas to get you started:
 - 📝 Contributor at [CircleCI Blog](https://circleci.com/blog/)
 - ✍🏾 Topics: Go, CI/CD, Serverless, AI/DevOps automation
 - 🎯 Goal: Help devs ship faster and build resilient systems
+
+- 📝 Contributor at [Twilio Blog](https://www.twilio.com/en-us/blog/authors/author.oolususi)
+- ✍🏾 Topics: Go, Real-Time Messaging, Conversations API, Communication Workflows
+- 🎯 Goal: Empower developers to build scalable support systems and connected experiences
 
 ---
 
