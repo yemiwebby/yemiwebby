@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👋 Hi, I'm Oluyemi — Software Engineer | Golang, TypeScript & Cloud Enthusiast
+
+- 🔭 I’m currently building: **AI PR Review Agent**, **Smart Expense Allocation Engine**
+- 💡 I'm exploring: **Golang Concurrency**, **Kafka**, **Cassandra**, **Azure**
+- ✍🏾 Writing: [CircleCI Tutorials](https://circleci.com/blog/)
+- 💬 Ask me about **Go, APIs, Microservices, DevOps, Cloud**
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yemiwebby) | [Twitter / X](https://twitter.com/yemiwebby)
+
+---
