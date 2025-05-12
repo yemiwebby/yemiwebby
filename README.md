@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 #### ✨ CircleCI Blog
 
-- 📝 [Read my posts](https://circleci.com/blog/)
+- 📝 [Read my posts](https://circleci.com/blog/author/olususi-oluyemi/)
 - ✍🏾 Topics: Go, CI/CD, Serverless, AI/DevOps automation
 - 🎯 Goal: Help devs ship faster and build resilient systems
 
